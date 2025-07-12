@@ -1,0 +1,31 @@
+Setup shadersShader compilation OK!: 1
+Shader compilation OK!: 2
+stbtt_GetBakedQuad *text: H xpos: 1610612736 y: 0, q.s0: 0
+
+Text_Vertices3  q.x0 2.000000, q.x1 18.000000, q.y0 -20.000000, q.y1 0.000000, q.s0 0.130859, q.s1 0.162109, q.t0 0.056641, q.t1 0.095703
+Text_Vertices3scale  q.x0 0.040000, q.x1 0.360000, q.y0 -0.400000, q.y1 0.000000, q.s0 0.130859, q.s1 0.162109, q.t0 0.056641, q.t1 0.095703
+
+stbtt_GetBakedQuad *text: e xpos: 1073741824 y: 0, q.s0: 0
+
+Text_Vertices3  q.x0 1.000000, q.x1 15.000000, q.y0 -15.000000, q.y1 1.000000, q.s0 0.031250, q.s1 0.058594, q.t0 0.111328, q.t1 0.142578
+Text_Vertices3scale  q.x0 0.020000, q.x1 0.300000, q.y0 -0.300000, q.y1 0.020000, q.s0 0.031250, q.s1 0.058594, q.t0 0.111328, q.t1 0.142578
+
+stbtt_GetBakedQuad *text: l xpos: 536870912 y: 0, q.s0: 0
+
+Text_Vertices3  q.x0 2.000000, q.x1 5.000000, q.y0 -21.000000, q.y1 0.000000, q.s0 0.195312, q.s1 0.201172, q.t0 0.111328, q.t1 0.152344
+Text_Vertices3scale  q.x0 0.040000, q.x1 0.100000, q.y0 -0.420000, q.y1 0.000000, q.s0 0.195312, q.s1 0.201172, q.t0 0.111328, q.t1 0.152344
+
+stbtt_GetBakedQuad *text: l xpos: 536870912 y: 0, q.s0: 0
+
+Text_Vertices3  q.x0 2.000000, q.x1 5.000000, q.y0 -21.000000, q.y1 0.000000, q.s0 0.195312, q.s1 0.201172, q.t0 0.111328, q.t1 0.152344
+Text_Vertices3scale  q.x0 0.040000, q.x1 0.100000, q.y0 -0.420000, q.y1 0.000000, q.s0 0.195312, q.s1 0.201172, q.t0 0.111328, q.t1 0.152344
+
+stbtt_GetBakedQuad *text: o xpos: 1610612736 y: 0, q.s0: 0
+
+Text_Vertices3  q.x0 1.000000, q.x1 15.000000, q.y0 -15.000000, q.y1 1.000000, q.s0 0.275391, q.s1 0.302734, q.t0 0.111328, q.t1 0.142578
+Text_Vertices3scale  q.x0 0.020000, q.x1 0.300000, q.y0 -0.300000, q.y1 0.020000, q.s0 0.275391, q.s1 0.302734, q.t0 0.111328, q.t1 0.142578
+
+stbtt_GetBakedQuad *text: L xpos: 1073741824 y: 0, q.s0: 0
+
+Text_Vertices3  q.x0 2.000000, q.x1 15.000000, q.y0 -20.000000, q.y1 0.000000, q.s0 0.238281, q.s1 0.263672, q.t0 0.056641, q.t1 0.095703
+Text_Vertices3scale  q.x0 0.040000, q.x1 0.300000, q.y0 -0.400000, q.y1 0.000000, q.s0 0.238281, q.s1 0.263672, q.t0 0.056641, q.t1 0.095703
